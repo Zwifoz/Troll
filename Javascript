@@ -1,41 +1,245 @@
-javascript:
-  document = window.document;
-alert("I worked so hard on this page for you, MJ, and your fellow fan boys and girls!"),
-  document.write(
-    "\n<html>\n          <body>\n            <h1>╭─〔❨✧Welcome to the MLB✧❩〕─╮</h1>
-    <center><h1>《 <em>MJ's lovely Bullying-site</em> 》</h1></center><center><h1></h1></center>
-    <center><h1>《 Insults 》</h1></center>
-    \n<center><button id='kill'>Soft Burn <em>1st Degree</em></button></center><center><button id='disable'>Hard Burn <em>3rd Degree</em></button></center>
-    <center><button id='revkill'>Aloe <em>Sunscreen</em></button></center><center><h1>《 Gallery 》</h1></center>
-    <center><h1>《 Arcade 》</h1></center>
+javascript:  
+document = window.document;
+alert("I worked so hard on this page for you, MJ, and your fellow fan boys and girls!"),  
+document.write(
+"\n<html>\n          <body>\n            <h1>╭─〔❨✧Welcome to the MLB✧❩〕─╮</h1>
+    <center><h1>《 <em>MJ's lovely Bullying-site</em> 》</h1></center>
+    <center><h1></h1></center>    <center><h1>《 Insults 》</h1></center>    
+    <center><button id='1'>Insult 1</button></center>
+    <center><button id='2'>Insult 2</button></center>
+    <center><button id='3'>Insult 3</button></center> 
+    <center><button id='4'>Insult 4</button></center>
+    <center><button id='5'>Insult 5</button></center>
+    <center><button id='6'>Insult 6</button></center>    
+    <center><button id='7'>Insult 7</button></center>    
+    <center><button id='8'>Insult 8</button></center>    
+    <center><button id='9'>Insult 9</button></center>    
+    <center><button id='10'>Insult 10</button></center>    
+    <center><button id='11'>Insult 11</button></center>    
+    <center><button id='12'>Insult 12</button></center>    
+    <center><button id='13'>Insult 13</button></center>    
+    <center><button id='14'>Insult 14</button></center>    
+    <center><button id='15'>Insult 15</button></center>    
+    <center><button id='16'>Insult 16</button></center>    
+    <center><button id='17'>Insult 17</button></center>    
+    <center><button id='18'>Insult 18</button></center>    
+    <center><button id='19'>Insult 19</button></center>    
+    <center><h1>《 Gallery 》</h1></center>    
+    <center><h1>《 Arcade 》</h1></center>    
     <center></center><center></center><center></center>\n</body>\n          </html>
     <center><button id='FGAgame'>My Fun Google Alert Game c: (for MJ)</button></center>
     <center><button id='classroom'>Custom Securly Classroom page</button></center>
     <center><button id='securly'>Custom Securly Page</button></center>
     <center><button id='goofy'>MJ Goofy Playlist</button></center>
-    <center><button id='aboutB'>A.B.C Cloaker</button></center>
+    <center><button id='aboutB'>A.B.C Cloaker</button></center> 
     <center><button id='chess'>Chess.com</button></center>
-    <center><button id='Retro'>RetroBowl</button></center>
+    <center><button id='Retro'>RetroBowl</button></center>    
     <center><button id='1v1'>1v1.lol</button></center>
-    \n <style> textarea{border-radius: 25px; margin: 1 auto;margin-center: auto;margin-center: auto; text-align: center;
-     align: center; display:inline-block;height:400px}*{box-sizing:border-box}body{padding:13px;font-size:110%;color:#000;
-     background-color:#220808}h1{text-align:center;font-size:70px}h2{text-align:left;font-size:175%}button,input,pre,select,textarea{border-radius: 21px;
-      color:#000;font-size:15px}h1,h2,h3,h4,button,label,p,select{font-family:Roboto,sans-serif}hr{border:none;border-bottom:3px solid #fff}input,kbd,pre,textarea{font-family:monospace;
-      border:none}input,select,textarea{background-color:#fff;border-radius:25px; padding:13px 17px;border:none}button,input{background-color:#9C3C13;
-      padding:13px 100px;margin:20 5px 5px 0}input{width:600px;border-radius:25px}textarea{white-space:pre;float:center;
-      width:60%;border-radius:25px; 0 0 10px;resize:none;background-color:#99edc3;margin-bottom:15px}pre{border-radius:25; 10px 10px 0;
-      padding:13px;float:right;margin:0 0 25px;width:40%;overflow-y:scroll;word-break:break-all;white-space:pre-line;
-      background-color:#1c8e40}button{border:none;border-radius:25px; cursor:pointer;transition:filter 250ms}button:hover{filter:brightness(.8)}.gg{background-color:#99edc3}a{color:#99edc3;
-      transition:color 250ms}a:hover{color:#1c8e40}</style>\n"
-  );
-  document.getElementById("disable").addEventListener(
+    <style> textarea{border-radius: 25px; margin: 1 auto;margin-center: auto;margin-center: auto; text-align: center;     align: center; 
+    display:inline-block;height:400px}*{box-sizing:border-box}body{padding:13px;font-size:110%;color:#000;
+    background-color:#220808}h1{text-align:center;font-size:70px}h2{text-align:left;font-size:175%}button,input,pre,select,textarea{border-radius: 21px;
+    color:#000;font-size:15px}h1,h2,h3,h4,button,label,p,select{font-family:Roboto,sans-serif}hr{border:none;border-bottom:3px solid #fff}
+    input,kbd,pre,textarea{font-family:monospace;border:none}input,select,textarea{background-color:#fff;border-radius:25px; padding:13px 17px;
+    border:none}button,input{background-color:#9C3C13;padding:13px 100px;margin:20 5px 5px 0}input{width:600px;border-radius:25px}textarea{white-space:pre;
+    float:center;width:60%;border-radius:25px; 0 0 10px;resize:none;background-color:#99edc3;margin-bottom:15px}pre{border-radius:25; 10px 10px 0;
+    padding:13px;float:right;margin:0 0 25px;width:40%;overflow-y:scroll;word-break:break-all;white-space:pre-line;background-color:#1c8e40}
+    button{border:none;border-radius:25px; cursor:pointer;transition:filter 250ms}button:hover{filter:brightness(.8)}.gg{background-color:#99edc3}a
+    {color:#99edc3;transition:color 250ms}a:hover{color:#1c8e40}</style>\n"
+);
+document.getElementById("1").addEventListener(
     "click",
     function () {
-      let person = prompt("MJ, you aren't even half the man your mother was.", "SHEEESH, GAWDAYUM!");
+        alert("You have more rolls than what we did at Thanksgiving.");
+        },    
+        !1  
+    ),  
+document.getElementById("2").addEventListener(    
+    "click",    
+    function () {      
+        alert("You are so fat, last time we played Hide-And-Seek was when I found you hiding behind Texas.");    
+        },    
+        !1  
+    ),  
+document.getElementById("3").addEventListener(    
+    "click",    
+    function () {      
+        alert("Can not wait for your hand to not be able to fit in that Pringles can . . . then where will you get your source of nutrition from?");
+        },    
+        !1  
+    ),  
+document.getElementById("4").addEventListener(
+    "click",    
+    function () {      
+        alert("MJ honestly looks like he was poured into his clothes, and his mother that was ordering forgot to say when.");    
+        },    
+        !1  
+    ),   
+document.getElementById("5").addEventListener(    
+    "click",    
+    function () {        
+        alert("His dish at lunch may say health, but his neck rolls scream McDonalds.");    
+        },    
+        !1  
+    ),  
+document.getElementById("6").addEventListener(    
+    "click",    
+    function () {        
+        alert("Honestly, I do not know if even he could tell me the last time that he could see his whole body in a mirror.");    
+        },    
+        !1  
+    ),  
+document.getElementById("7").addEventListener(    
+    "click",    
+    function () {        
+        alert("I think I know why MJ has a weird-ass voice and speech, the only letters in her alphabet are K, F, and C.");    
+        },    
+        !1  
+    ),  
+document.getElementById("8").addEventListener(    
+    "click",    
+    function () {        
+        alert("Bro probably needs cheat codes for the WII Fit.");
+        },    
+        !1  
+    ),  
+document.getElementById("9").addEventListener(    
+    "click",    
+    function () {        
+        alert("I would love to see him try to perform a handstand. His stomach would smack his face faster than my mom hits the Gas Pedal when pissed.");
+        },
+        !1  
+    ),   
+document.getElementById("10").addEventListener(    
+    "click",    
+    function () {        
+        alert("His mother really means it when she calls MJ a big boy.");
+        },   
+        !1  
+    ),   
+document.getElementById("11").addEventListener(    
+    "click",    
+    function () {        
+        alert("He is so big that he probably has to use a mattress as a diaper when playing his DS.");    
+        },    
+        !1  
+    ),   
+document.getElementById("12").addEventListener(    
+    "click",    
+    function () {        
+        alert("Well, I would be surprised to see him ever walk in high heels without them turning into flipflops.");    
+        },    
+        !1  
+    ),   
+document.getElementById("13").addEventListener(    
+    "click",    
+    function () {        
+        alert("You are so fat that Dora The Explorer could not even explore you.");    
+        },    
+        !1  
+    ),   
+document.getElementById("14").addEventListener(    
+    "click",    
+    function () {        
+        alert("When he buys a box of cheerios, that shit comes with a life guard.");    
+        },    
+        !1  
+    ),   
+document.getElementById(15).addEventListener(    
+    "click",    
+    function () {        
+        alert("I wonder if they sell larger caskets, I think they are going to need it to fit his size, along with his Loli pillow and Zelda games.");    
+        },    
+        !1 
+    ),  
+document.getElementById(16).addEventListener(    
+    "click",    
+    function () {        
+        alert("His ancestors must be rolling around in the graves to these insults, or rolling around in regret for raising such a fuck.");    
+        },    
+        !1  
+    ),   
+document.getElementById(17).addEventListener(    
+    "click",    
+    function () {        
+        alert("Aint no way he be finding clothes to fit his size, they must be handmedowns from his mom or Jacksens family.");    
+        },    
+    !1  
+    ),   
+document.getElementById(18).addEventListener(    
+    "click",    
+    function () {        
+        alert("Women are right, size does matter, hence is why he has not got any bitches yet.");    
+        },    
+    !1  
+    ),   
+document.getElementById(19).addEventListener(    
+    "click",    
+    function () {       
+        alert("MJ is so fat that when he sat on Walmart, he lowered the prices.");    
+        },    
+    !1  
+    ),  
+document.getElementById("classroom").addEventListener(
+    "click",
+    function () {
+      window.open(
+        "chrome-extension://jfbecfmiegcjddenjhlbhlikcbfmnafd/blocking/block.html?t=" +
+          encodeURIComponent(btoa(prompt("Insert HTML in box below.\n(INCLUDE https://)", "https://classroom.google.com/h")))
+      );
     },
     !1
   ),
-   document.getElementById("chess").addEventListener(
+document.getElementById("securly").addEventListener(
+    "click",
+    function () {
+      window.open(
+        "chrome-extension://iheobagjkfklnlikgihanlhcddjoihkg/blocked.html?site=" +
+          encodeURIComponent(
+            btoa(prompt("Insert HTML in box below.\n(INCLUDE https://)\n(If it says that it is blocked by Chrome, just reload your page WITH THE RELOAD KEY)", "https://classroom.google.com/h"))
+          )
+      );
+    },
+    !1
+  ),
+document.getElementById("goofy").addEventListener(
+    "click",
+    function () {
+      (window.open("https://open.spotify.com/playlist/14CuuAEKknMPk3dbx6wADR")
+      );
+    },
+    !1
+  ),
+ document.getElementById("aboutB").addEventListener(
+    "click",
+    function () {
+      javascript: (function () {
+        var url = prompt(
+          "Paste the link you want to be embedded into an about:blank page.
+          \nFun part is, this will not show in your search history.
+          \n(BLOCKED PAGES WILL STILL BE BLOCKED)
+          \n(INCLUDE https://)",
+          "https://watchparty.me"
+        );
+        var urlObj = new window.URL(window.location.href);
+        win = window.open();
+        win.document.body.style.margin = "0";
+        win.document.body.style.height = "100vh";
+        var iframe = win.document.createElement("iframe");
+        iframe.style.border = "none";
+        iframe.style.width = "100%";
+        iframe.style.height = "100%";
+        iframe.style.margin = "0";
+        iframe.referrerpolicy = "no-referrer";
+        iframe.allow = "fullscreen";
+        iframe.src = url.toString();
+        win.document.body.appendChild(iframe);
+        var script = win.document.createElement("script");
+        win.document.body.appendChild(script);
+      })();
+    },
+    !1
+  );
+  document.getElementById("chess").addEventListener(
     "click",
     function () {
       window.open('https://chess.com');
@@ -56,7 +260,7 @@ alert("I worked so hard on this page for you, MJ, and your fellow fan boys and g
     },
     !1
   ),
-   document.getElementById("FGAgame").addEventListener(
+  document.getElementById("FGAgame").addEventListener(
     "click",
     function () {
       javascript: alert(location.hostname); 
@@ -126,80 +330,6 @@ MJ: Okay mom... *Boner recedes, he goes to sleep after getting rid of the bright
 (() => {let person = prompt("There is more coming soon, that's just the demo!", "Yayyy....");})();
 alert("I know, you're excited c:");
 (() => {let text;let Alone = prompt("Anyway, I hope you enjoyed . . . and enjoy ;)");switch(Alone) {  default:    text = ".";};})();
-    },
-    !1
-  ),
-   document.getElementById("revkill").addEventListener(
-    "click",
-    function () {
-      let person = prompt("You're looking very cute today, and you smell very sweet!", "Awh, that was sweet. :3");
-    },
-    !1
-  ),
-  document.getElementById("kill").addEventListener(
-    "click",
-    function () {
-            let person = prompt("You're a stinky, poo head >:c", "k...");
-    },
-    !1
-  ),
-  document.getElementById("goofy").addEventListener(
-    "click",
-    function () {
-      (window.open("https://open.spotify.com/playlist/14CuuAEKknMPk3dbx6wADR")
-      );
-    },
-    !1
-  ),
-    document.getElementById("aboutB").addEventListener(
-    "click",
-    function () {
-      javascript: (function () {
-        var url = prompt(
-          "Paste the link you want to be embedded into an about:blank page.
-          \nFun part is, this will not show in your search history.
-          \n(BLOCKED PAGES WILL STILL BE BLOCKED)
-          \n(INCLUDE https://)",
-          "https://watchparty.me"
-        );
-        var urlObj = new window.URL(window.location.href);
-        win = window.open();
-        win.document.body.style.margin = "0";
-        win.document.body.style.height = "100vh";
-        var iframe = win.document.createElement("iframe");
-        iframe.style.border = "none";
-        iframe.style.width = "100%";
-        iframe.style.height = "100%";
-        iframe.style.margin = "0";
-        iframe.referrerpolicy = "no-referrer";
-        iframe.allow = "fullscreen";
-        iframe.src = url.toString();
-        win.document.body.appendChild(iframe);
-        var script = win.document.createElement("script");
-        win.document.body.appendChild(script);
-      })();
-    },
-    !1
-  );
-   document.getElementById("classroom").addEventListener(
-    "click",
-    function () {
-      window.open(
-        "chrome-extension://jfbecfmiegcjddenjhlbhlikcbfmnafd/blocking/block.html?t=" +
-          encodeURIComponent(btoa(prompt("Insert HTML in box below.\n(INCLUDE https://)", "https://classroom.google.com/h")))
-      );
-    },
-    !1
-  ),
-  document.getElementById("securly").addEventListener(
-    "click",
-    function () {
-      window.open(
-        "chrome-extension://iheobagjkfklnlikgihanlhcddjoihkg/blocked.html?site=" +
-          encodeURIComponent(
-            btoa(prompt("Insert HTML in box below.\n(INCLUDE https://)\n(If it says that it is blocked by Chrome, just reload your page WITH THE RELOAD KEY)", "https://classroom.google.com/h"))
-          )
-      );
     },
     !1
   )
