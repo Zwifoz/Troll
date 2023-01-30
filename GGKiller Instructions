@@ -3,7 +3,7 @@ Open "chrome-extension://haldlgldplgnggkjaafhelgiaglafanh/teacher/lesson-plans/b
 There should be a link that says "click me," click it.
 Highlight, then right-click (or double tap) the highlighted link, and select "Go to..." https://raw.githubusercontent.com/xClownish/Troll/main/GGKiller?_sm_au_=iVVBJDf40WJ1Sn0P2JBjvKHWQJVst
 Press CTRL+A, CTRL+C
-Select a blank space in your bookmarks bar, select add page.
+Select a blank space in your bookmarks bar, select add page. (If it is full of bookmarks, then go to the right-end of the bookmarks bar between the last bookmark and the drop-down arrow for the rest of your bookmarks)
 Name > Optional, URL > (Press CTRL+V)
 Select "Save."
 Go to the "about:blank" tab that came from clicking "click me" and select the bookmark you just made.
