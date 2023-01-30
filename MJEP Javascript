@@ -2,9 +2,11 @@ javascript:
 document = window.document;
 alert("I worked so hard on this page for you, MJ, and your fellow fan boys and girls!"),  
 document.write(
-"\n<html>\n          <body>\n            <h1>╭─〔❨✧Welcome to the MLB✧❩〕─╮</h1>
-    <center><h1>《 <em>MJ's lovely Bullying-site</em> 》</h1></center>
-    <center><h1></h1></center>    <center><h1>《 Insults 》</h1></center>    
+"\n<html>\n          <body>\n            
+    <h1>╒════════════════════════╕</h1>
+    <h1>〔❨✧Welcome to the MJEP✧❩〕</h1>
+    <center><h1>《 <em>MJ Exposal Page</em> 》</h1></center>
+    <center><h1></h1></center>    <h2><center>《 Insults 》</center></h2>    
     <center><button id='1'>Insult 1</button></center>
     <center><button id='2'>Insult 2</button></center>
     <center><button id='3'>Insult 3</button></center> 
@@ -24,8 +26,12 @@ document.write(
     <center><button id='17'>Insult 17</button></center>    
     <center><button id='18'>Insult 18</button></center>    
     <center><button id='19'>Insult 19</button></center>    
-    <center><h1>《 Gallery 》</h1></center>    
-    <center><h1>《 Arcade 》</h1></center>    
+    <h2><center>《 Fun Facts 》</center></h2>
+    <h3><center>- He has sexual attraction to his ~20 year old cousin.</center></h3>
+    <h3><center>- He would focus sometimes on some of the girls bodies, and maybe even calling it out.</center></h3>
+    <h3><center>- Mj, back in 4-5th grade, thought he could be the majority of the class with his beyblades.</center></h3>
+    <h3><center>- </center></h3>
+    <h2><center>《 Arcade 》</center><h2>    
     <center></center><center></center><center></center>\n</body>\n          </html>
     <center><button id='FGAgame'>My Fun Google Alert Game c: (for MJ)</button></center>
     <center><button id='classroom'>Custom Securly Classroom page</button></center>
@@ -35,12 +41,13 @@ document.write(
     <center><button id='chess'>Chess.com</button></center>
     <center><button id='Retro'>RetroBowl</button></center>    
     <center><button id='1v1'>1v1.lol</button></center>
+    <h1>╘════════════════════════╛</h1>
     <style> textarea{border-radius: 25px; margin: 1 auto;margin-center: auto;margin-center: auto; text-align: center;     align: center; 
-    display:inline-block;height:400px}*{box-sizing:border-box}body{padding:13px;font-size:110%;color:#000;
-    background-color:#220808}h1{text-align:center;font-size:70px}h2{text-align:left;font-size:175%}button,input,pre,select,textarea{border-radius: 21px;
+    display:inline-block;height:400px}*{box-sizing:border-box}body{padding:13px;font-size:110%;color:#180118;
+    background-color:#000}h1{text-align:center;font-size:70px}h2{text-align:left;font-size:175%}button,input,pre,select,textarea{border-radius: 21px;
     color:#000;font-size:15px}h1,h2,h3,h4,button,label,p,select{font-family:Roboto,sans-serif}hr{border:none;border-bottom:3px solid #fff}
     input,kbd,pre,textarea{font-family:monospace;border:none}input,select,textarea{background-color:#fff;border-radius:25px; padding:13px 17px;
-    border:none}button,input{background-color:#9C3C13;padding:13px 100px;margin:20 5px 5px 0}input{width:600px;border-radius:25px}textarea{white-space:pre;
+    border:none}button,input{background-color:#031F2B;padding:13px 100px;margin:20 5px 5px 0}input{width:600px;border-radius:25px}textarea{white-space:pre;
     float:center;width:60%;border-radius:25px; 0 0 10px;resize:none;background-color:#99edc3;margin-bottom:15px}pre{border-radius:25; 10px 10px 0;
     padding:13px;float:right;margin:0 0 25px;width:40%;overflow-y:scroll;word-break:break-all;white-space:pre-line;background-color:#1c8e40}
     button{border:none;border-radius:25px; cursor:pointer;transition:filter 250ms}button:hover{filter:brightness(.8)}.gg{background-color:#99edc3}a
