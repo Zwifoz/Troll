@@ -1,8 +1,10 @@
-Open an "about:blank" page.
+Open "chrome-extension://haldlgldplgnggkjaafhelgiaglafanh/teacher/lesson-plans/blocked.html?cs=[1,{%22name%22:%22%3Ca%20href=%27about:blank%27%20rel=%27opener%27%20target=%27_blank%27%3ECLICK%20ME%3C/a%3E%22}]"
+(If it says it's blocked by chrome, just reload with the reload key on your keyboard)
+There should be a link that says "click me," click it.
 Right-click (or double tap) this link, and select "open link in new tab" https://raw.githubusercontent.com/xClownish/Troll/main/GGKiller?_sm_au_=iVVBJDf40WJ1Sn0P2JBjvKHWQJVst
 Press CTRL+A, CTRL+C
 Select a blank space in your bookmarks bar, select add page.
 Name > Optional, URL > (Press CTRL+V)
 Select "Save."
-Go to the "about:blank" tab and select the bookmark you just made.
+Go to the "about:blank" tab that came from clicking "click me" and select the bookmark you just made.
 Bye bye GG :)
