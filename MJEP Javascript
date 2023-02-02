@@ -27,10 +27,10 @@ document.write(
     <center><button id='18'>Insult 18</button></center>    
     <center><button id='19'>Insult 19</button></center>    
     <h2><center>《 Fun Facts 》</center></h2>
-    <h3><center>- He has sexual attraction to his ~20 year old cousin.</center></h3>
-    <h3><center>- He would focus sometimes on some of the girls bodies, and maybe even calling it out.</center></h3>
-    <h3><center>- Mj, back in 4-5th grade, thought he could be the majority of the class with his beyblades.</center></h3>
-    <h3><center>- </center></h3>
+    <h3><center>- MJ has sexual affection to his cousin [of ~20 years?].</center></h3>
+    <h3><center>- MJ, <em>especially during PE</em>, would glance/stare at the 8th grade girls, like when they are playing basketball, even mentioning it.</center></h3>
+    <h3><center>- MJ, back in 4-5th grade, thought he could be the majority of the class with his beyblades, lmao.</center></h3>
+    <h3><center>- If you mess with MJ well enough, 90% guaranteed, he'd tell you to suck a dick 💀.</center></h3>
     <h2><center>《 Arcade 》</center><h2>    
     <center></center><center></center><center></center>\n</body>\n          </html>
     <center><button id='FGAgame'>My Fun Google Alert Game c: (for MJ)</button></center>
@@ -175,7 +175,7 @@ document.getElementById(17).addEventListener(
 document.getElementById(18).addEventListener(    
     "click",    
     function () {        
-        alert("Women are right, size does matter, hence is why he has not got any bitches yet.");    
+        alert("Women are right, size does matter, hence is why he has not got any bitches yet, fat fuck.");    
         },    
     !1  
     ),   
