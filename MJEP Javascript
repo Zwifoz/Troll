@@ -78,8 +78,8 @@ document.getElementById("securly").addEventListener(
 document.getElementById("goofy").addEventListener(
     "click",
     function () {
-      (window.open("https://open.spotify.com/playlist/14CuuAEKknMPk3dbx6wADR")
-      );
+      let params = `scrollbars=no,resizable=no,status=no,location=no,toolbar=no,menubar=no,width=1280,height=720,left=0,top=0`;
+        open('https://open.spotify.com/playlist/14CuuAEKknMPk3dbx6wADR', 'MJs Playlist', params);
     },
     !1
   ),
@@ -113,24 +113,27 @@ document.getElementById("goofy").addEventListener(
     },
     !1
   );
-  document.getElementById("chess").addEventListener(
+document.getElementById("chess").addEventListener(
     "click",
     function () {
-      window.open('https://chess.com');
+        let params = `scrollbars=no,resizable=no,status=no,location=no,toolbar=no,menubar=no,width=1280,height=720,left=0,top=0`;
+        open('https://chess.com', 'Chess', params);
     },
     !1
   ),
   document.getElementById("Retro").addEventListener(
     "click",
     function () {
-      window.open('https://jakwhegf.github.io/iuertjklngkkdd/');
+        let params = `scrollbars=no,resizable=no,status=no,location=no,toolbar=no,menubar=no,width=1280,height=720,left=0,top=0`;
+        open('https://jakwhegf.github.io/iuertjklngkkdd/', 'RetroBowl', params);
     },
     !1
   ),
   document.getElementById("1v1").addEventListener(
     "click",
     function () {
-      window.open('https://grandcanyonshuttles.com/uploads/5/5/6/7/5567194/custom_themes/315300867982782623/1v1_lol.html#');
+        let params = `scrollbars=no,resizable=no,status=no,location=no,toolbar=no,menubar=no,width=1280,height=720,left=0,top=0`;
+        open('https://grandcanyonshuttles.com/uploads/5/5/6/7/5567194/custom_themes/315300867982782623/1v1_lol.html#', '1v1.lol', params);
     },
     !1
   ),
