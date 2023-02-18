@@ -2,7 +2,7 @@ javascript:
 document = window.document;
 alert("I worked so hard on this page for you, MJ, and your fellow fan boys and girls!"),  
 document.write(
-"\n<html>\n          <body>\n            
+"<html>\n          <body>\n
     <h1>╒════════════════════════╕</h1>
     <h1>〔❨✧Welcome to the MJEP✧❩〕</h1>
     <center><h1>《 <em>MJ Exposal Page</em> 》</h1></center>
@@ -51,9 +51,8 @@ document.write(
     float:center;width:60%;border-radius:25px; 0 0 10px;resize:none;background-color:#99edc3;margin-bottom:15px}pre{border-radius:25; 10px 10px 0;
     padding:13px;float:right;margin:0 0 25px;width:40%;overflow-y:scroll;word-break:break-all;white-space:pre-line;background-color:#1c8e40}
     button{border:none;border-radius:25px; cursor:pointer;transition:filter 250ms}button:hover{filter:brightness(.8)}.gg{background-color:#99edc3}a
-    {color:#99edc3;transition:color 250ms}a:hover{color:#1c8e40}</style>\n"
-);  
-document.getElementById("classroom").addEventListener(
+    {color:#99edc3;transition:color 250ms}a:hover{color:#1c8e40}</style>");
+("classroom").addEventListener(
     "click",
     function () {
       window.open(
@@ -83,7 +82,7 @@ document.getElementById("goofy").addEventListener(
     },
     !1
   ),
- document.getElementById("aboutB").addEventListener(
+document.getElementById("aboutB").addEventListener(
     "click",
     function () {
       javascript: (function () {
@@ -112,7 +111,7 @@ document.getElementById("goofy").addEventListener(
       })();
     },
     !1
-  );
+);
 document.getElementById("chess").addEventListener(
     "click",
     function () {
@@ -120,7 +119,7 @@ document.getElementById("chess").addEventListener(
         open('https://chess.com', 'Chess', params);
     },
     !1
-  ),
+),
   document.getElementById("Retro").addEventListener(
     "click",
     function () {
@@ -128,7 +127,7 @@ document.getElementById("chess").addEventListener(
         open('https://jakwhegf.github.io/iuertjklngkkdd/', 'RetroBowl', params);
     },
     !1
-  ),
+),
   document.getElementById("1v1").addEventListener(
     "click",
     function () {
@@ -136,8 +135,8 @@ document.getElementById("chess").addEventListener(
         open('https://grandcanyonshuttles.com/uploads/5/5/6/7/5567194/custom_themes/315300867982782623/1v1_lol.html#', '1v1.lol', params);
     },
     !1
-  ),
-  document.getElementById("FGAgame").addEventListener(
+),
+document.getElementById("FGAgame").addEventListener(
     "click",
     function () {
       javascript: alert(location.hostname); 
@@ -209,7 +208,7 @@ alert("I know, you're excited c:");
 (() => {let text;let Alone = prompt("Anyway, I hope you enjoyed . . . and enjoy ;)");switch(Alone) {  default:    text = ".";};})();
     },
     !1
-  ),
+),
 document.getElementById("1").addEventListener(
     "click",
     function () {
@@ -342,4 +341,4 @@ document.getElementById(19).addEventListener(
         alert("MJ is so fat that when he sat on Walmart, he lowered the prices.");    
         },    
     !1  
-    )
+    );
