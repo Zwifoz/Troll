@@ -52,7 +52,7 @@ document.write(
     padding:13px;float:right;margin:0 0 25px;width:40%;overflow-y:scroll;word-break:break-all;white-space:pre-line;background-color:#1c8e40}
     button{border:none;border-radius:25px; cursor:pointer;transition:filter 250ms}button:hover{filter:brightness(.8)}.gg{background-color:#99edc3}a
     {color:#99edc3;transition:color 250ms}a:hover{color:#1c8e40}</style>");
-("classroom").addEventListener(
+document.getElementById("classroom").addEventListener(
     "click",
     function () {
       window.open(
