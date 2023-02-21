@@ -1,12 +1,21 @@
 javascript:  
 document = window.document;
 alert("I worked so hard on this page for you, MJ, and your fellow fan boys and girls!"),  
-document.write(
-"<html>\n          <body>\n
+document.write("
+<html>          
+    <body>
     <center><h1>╒════════════════════════╕</h1></center>
     <center><h1>〔❨✧Welcome to the MJEP✧❩〕</h1></center>
     <center><h1>《 <em>MJ Exposal Page</em> 》</h1></center>
-    <center><h1></h1></center>    <h2><center>《 Insults 》</center></h2>    
+    <br>
+    </center><h2><center>《 Fun Embarrassing Facts 》</center></h2>
+    <h3><center>- MJ has sexual affection to his cousin [of ~20 years?].</center></h3>
+    <h3><center>- MJ, <em>especially during PE</em>, would glance/stare at the 8th grade girls, like when they are playing basketball, perhaps even mentioning it.</center></h3>
+    <h3><center>- MJ, back in 4-5th grade, thought he could be the majority of the class with his beyblades, lmao.</center></h3>
+    <h3><center>- If you mess with MJ well enough, 90% guaranteed, he'd tell you to suck a dick 💀.</center></h3>
+    <center><button id='goofy'>MJ's Goofy-ass Playlist</button></center>
+    <br>
+    <h2><center>《 Insults 》</center></h2>    
     <center><button id='1'>Insult 1</button></center>
     <center><button id='2'>Insult 2</button></center>
     <center><button id='3'>Insult 3</button></center> 
@@ -26,28 +35,25 @@ document.write(
     <center><button id='17'>Insult 17</button></center>    
     <center><button id='18'>Insult 18</button></center>    
     <center><button id='19'>Insult 19</button></center>    
-    <h2><center>《 Fun Facts 》</center></h2>
-    <h3><center>- MJ has sexual affection to his cousin [of ~20 years?].</center></h3>
-    <h3><center>- MJ, <em>especially during PE</em>, would glance/stare at the 8th grade girls, like when they are playing basketball, even mentioning it.</center></h3>
-    <h3><center>- MJ, back in 4-5th grade, thought he could be the majority of the class with his beyblades, lmao.</center></h3>
-    <h3><center>- If you mess with MJ well enough, 90% guaranteed, he'd tell you to suck a dick 💀.</center></h3>
-    <h2><center>《 Arcade 》</center><h2>    
-    <center></center><center></center><center></center>\n</body>\n          </html>
+    <br><br>
+    <h2><center>《 Arcade 》</center><h2>
     <center><button id='FGAgame'>My Fun Google Alert Game c: (for MJ)</button></center>
     <center><button id='classroom'>Custom Securly Classroom page</button></center>
     <center><button id='securly'>Custom Securly Page</button></center>
-    <center><button id='goofy'>MJ Goofy Playlist</button></center>
     <center><button id='aboutB'>A.B.C Cloaker</button></center> 
     <center><button id='chess'>Chess.com</button></center>
     <center><button id='Retro'>RetroBowl</button></center>    
     <center><button id='1v1'>1v1.lol</button></center>
+    <center><button id='Test'>Test</button></center>
     <h1>╘════════════════════════╛</h1>
+    </body>
+</html>
     <style> 
         textarea{border-radius: 25px; margin: 1 auto;margin-center: auto;margin-center: auto; text-align: center;     align: center; 
         display:inline-block;height:400px}*{box-sizing:border-box}body
         /* text color */{padding:13px;font-size:110%;color:#7C0303;
         /* background color */background-color:#0F0F0F}h1{text-align:center;font-size:70px}h2{text-align:left;font-size:175%}button,input,pre,select,textarea{border-radius: 23px;
-        color:#000;font-size:20px}h1,h2,h3,h4,button,label,p,select
+        color:#000;font-size:16px}h1,h2,h3,h4,button,label,p,select
         /* text font */{font-family:Brush Script MT,cursive}hr{border:none;border-bottom:3px solid #fff}
         input,kbd,pre,textarea{font-family:curive;border:none}input,select,textarea{background-color:#fff;border-radius:25px; padding:13px 17px;
         border:none}button,input{background-color:
@@ -55,8 +61,8 @@ document.write(
         float:center;width:60%;border-radius:25px; 0 0 10px;resize:none;background-color:#99edc3;margin-bottom:15px}pre{border-radius:25; 10px 10px 0;
         padding:13px;float:right;margin:0 0 25px;width:40%;overflow-y:scroll;word-break:break-all;white-space:pre-line;background-color:#1c8e40}
         button{border:none;border-radius:25px; cursor:pointer;transition:filter 250ms}button:hover{filter:brightness(.8)}.gg{background-color:#99edc3}a
-        {color:#99edc3;transition:color 250ms}a:hover{color:#1c8e40}");
-    </style>
+        {color:#99edc3;transition:color 250ms}a:hover{color:#1c8e40}
+    </style>");
 document.getElementById("classroom").addEventListener(
     "click",
     function () {
@@ -301,7 +307,7 @@ document.getElementById("12").addEventListener(
 document.getElementById("13").addEventListener(    
     "click",    
     function () {        
-        alert("You are so fat that Dora The Explorer could not even explore you.");    
+        alert("Fuck you.");    
         },    
         !1  
     ),   
@@ -329,7 +335,7 @@ document.getElementById(16).addEventListener(
 document.getElementById(17).addEventListener(    
     "click",    
     function () {        
-        alert("Aint no way he be finding clothes to fit his size, they must be handmedowns from his mom or Jacksens family.");    
+        alert("Mj really be trying to make his hair match his MHA persona.");    
         },    
     !1  
     ),   
