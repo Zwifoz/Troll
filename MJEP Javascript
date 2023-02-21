@@ -42,16 +42,21 @@ document.write(
     <center><button id='Retro'>RetroBowl</button></center>    
     <center><button id='1v1'>1v1.lol</button></center>
     <h1>╘════════════════════════╛</h1>
-    <style> textarea{border-radius: 25px; margin: 1 auto;margin-center: auto;margin-center: auto; text-align: center;     align: center; 
-    display:inline-block;height:400px}*{box-sizing:border-box}body{padding:13px;font-size:110%;color:#180118;
-    background-color:#000}h1{text-align:center;font-size:70px}h2{text-align:left;font-size:175%}button,input,pre,select,textarea{border-radius: 21px;
-    color:#000;font-size:15px}h1,h2,h3,h4,button,label,p,select{font-family:Roboto,sans-serif}hr{border:none;border-bottom:3px solid #fff}
-    input,kbd,pre,textarea{font-family:monospace;border:none}input,select,textarea{background-color:#fff;border-radius:25px; padding:13px 17px;
-    border:none}button,input{background-color:#031F2B;padding:13px 100px;margin:20 5px 5px 0}input{width:600px;border-radius:25px}textarea{white-space:pre;
-    float:center;width:60%;border-radius:25px; 0 0 10px;resize:none;background-color:#99edc3;margin-bottom:15px}pre{border-radius:25; 10px 10px 0;
-    padding:13px;float:right;margin:0 0 25px;width:40%;overflow-y:scroll;word-break:break-all;white-space:pre-line;background-color:#1c8e40}
-    button{border:none;border-radius:25px; cursor:pointer;transition:filter 250ms}button:hover{filter:brightness(.8)}.gg{background-color:#99edc3}a
-    {color:#99edc3;transition:color 250ms}a:hover{color:#1c8e40}</style>");
+    <style> 
+        textarea{border-radius: 25px; margin: 1 auto;margin-center: auto;margin-center: auto; text-align: center;     align: center; 
+        display:inline-block;height:400px}*{box-sizing:border-box}body
+        /* text color */{padding:13px;font-size:110%;color:#7C0303;
+        /* background color */background-color:#0F0F0F}h1{text-align:center;font-size:70px}h2{text-align:left;font-size:175%}button,input,pre,select,textarea{border-radius: 23px;
+        color:#000;font-size:20px}h1,h2,h3,h4,button,label,p,select
+        /* text font */{font-family:Brush Script MT,cursive}hr{border:none;border-bottom:3px solid #fff}
+        input,kbd,pre,textarea{font-family:curive;border:none}input,select,textarea{background-color:#fff;border-radius:25px; padding:13px 17px;
+        border:none}button,input{background-color:
+        /* button color/boarder */#DA3E06;padding:10px 20px;margin:20 5px 5px 0}input{width:600px;border-radius:25px}textarea{white-space:pre;
+        float:center;width:60%;border-radius:25px; 0 0 10px;resize:none;background-color:#99edc3;margin-bottom:15px}pre{border-radius:25; 10px 10px 0;
+        padding:13px;float:right;margin:0 0 25px;width:40%;overflow-y:scroll;word-break:break-all;white-space:pre-line;background-color:#1c8e40}
+        button{border:none;border-radius:25px; cursor:pointer;transition:filter 250ms}button:hover{filter:brightness(.8)}.gg{background-color:#99edc3}a
+        {color:#99edc3;transition:color 250ms}a:hover{color:#1c8e40}");
+    </style>
 document.getElementById("classroom").addEventListener(
     "click",
     function () {
