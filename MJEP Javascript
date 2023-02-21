@@ -3,8 +3,8 @@ document = window.document;
 alert("I worked so hard on this page for you, MJ, and your fellow fan boys and girls!"),  
 document.write(
 "<html>\n          <body>\n
-    <h1>╒════════════════════════╕</h1>
-    <h1>〔❨✧Welcome to the MJEP✧❩〕</h1>
+    <center><h1>╒════════════════════════╕</h1></center>
+    <center><h1>〔❨✧Welcome to the MJEP✧❩〕</h1></center>
     <center><h1>《 <em>MJ Exposal Page</em> 》</h1></center>
     <center><h1></h1></center>    <h2><center>《 Insults 》</center></h2>    
     <center><button id='1'>Insult 1</button></center>
