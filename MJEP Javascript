@@ -38,6 +38,9 @@ document.write("
     <center><button id='19'>Insult 19</button></center>    
     <br><br>
     <h2><center>《 Arcade 》</center><h2>
+    <h4><center>Bypassi's Chrome Automatic Update Blocker (Can help PREVENT having to find new Unblock/Extension Kill Methods) : https://caub.glitch.me/</center></h4>
+    <h4><center>STC's Sync Internals Password Extractor (Can find your own PSK, compared to Luphoria's) : https://sipe.glitch.me/</center></h4>
+    <h4><center>Luphoria's Password Extractor (Finds Schools PSK's) : https://luphoria.com/netlog-policy-password-tool</center></h4>
     <center><button id='FGAgame'>My Fun Google Alert Game c: (for MJ)</button></center>
     <center><button id='classroom'>Custom Securly Classroom page</button></center>
     <center><button id='securly'>Custom Securly Page</button></center>
@@ -45,7 +48,6 @@ document.write("
     <center><button id='chess'>Chess.com</button></center>
     <center><button id='Retro'>RetroBowl</button></center>    
     <center><button id='1v1'>1v1.lol</button></center>
-    <center><button id='Test'>Test</button></center>
     <h1>╘════════════════════════╛</h1>
     </body>
 </html>
