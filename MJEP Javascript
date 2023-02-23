@@ -15,7 +15,19 @@ document.write("
     <h3><center>- If you mess with MJ well enough, 90% guaranteed, he'd tell you to suck a dick 💀.</center></h3>
     <h3><center>- MJ's ID(Lunch) Number: 12741061.</center></h3>
     <center><button id='goofy'>MJ's Goofy-ass Playlist</button></center>
-    <br>
+    <br><br>
+    <h2><center>《 Arcade 》</center><h2>
+    <h4><center>Bypassi's Chrome Automatic Update Blocker (Can help PREVENT having to find new Unblock/Extension Kill Methods) : https://caub.glitch.me/</center></h4>
+    <h4><center>STC's Sync Internals Password Extractor (Can find your own PSK, compared to Luphoria's) : https://sipe.glitch.me/</center></h4>
+    <h4><center>Luphoria's Password Extractor (Finds Schools PSK's) : https://luphoria.com/netlog-policy-password-tool</center></h4>
+    <center><button id='FGAgame'>My Fun Google Alert Game c: (for MJ)</button></center>
+    <center><button id='classroom'>Custom Securly Classroom page</button></center>
+    <center><button id='securly'>Custom Securly Page</button></center>
+    <center><button id='aboutB'>A.B.C Cloaker</button></center> 
+    <center><button id='chess'>Chess.com</button></center>
+    <center><button id='Retro'>RetroBowl</button></center>    
+    <center><button id='1v1'>1v1.lol</button></center>
+    <br><br>
     <h2><center>《 Insults 》</center></h2>    
     <center><button id='1'>Insult 1</button></center>
     <center><button id='2'>Insult 2</button></center>
@@ -35,19 +47,8 @@ document.write("
     <center><button id='16'>Insult 16</button></center>    
     <center><button id='17'>Insult 17</button></center>    
     <center><button id='18'>Insult 18</button></center>    
-    <center><button id='19'>Insult 19</button></center>    
-    <br><br>
-    <h2><center>《 Arcade 》</center><h2>
-    <h4><center>Bypassi's Chrome Automatic Update Blocker (Can help PREVENT having to find new Unblock/Extension Kill Methods) : https://caub.glitch.me/</center></h4>
-    <h4><center>STC's Sync Internals Password Extractor (Can find your own PSK, compared to Luphoria's) : https://sipe.glitch.me/</center></h4>
-    <h4><center>Luphoria's Password Extractor (Finds Schools PSK's) : https://luphoria.com/netlog-policy-password-tool</center></h4>
-    <center><button id='FGAgame'>My Fun Google Alert Game c: (for MJ)</button></center>
-    <center><button id='classroom'>Custom Securly Classroom page</button></center>
-    <center><button id='securly'>Custom Securly Page</button></center>
-    <center><button id='aboutB'>A.B.C Cloaker</button></center> 
-    <center><button id='chess'>Chess.com</button></center>
-    <center><button id='Retro'>RetroBowl</button></center>    
-    <center><button id='1v1'>1v1.lol</button></center>
+    <center><button id='19'>Insult 19</button></center>
+    <center><button id='20'>Insult 20</button></center>    
     <h1>╘════════════════════════╛</h1>
     </body>
 </html>
@@ -227,132 +228,139 @@ document.getElementById("1").addEventListener(
     "click",
     function () {
         alert("You have more rolls than what we did at Thanksgiving.");
-        },    
-        !1  
-    ),  
+    },    
+    !1  
+),  
 document.getElementById("2").addEventListener(    
     "click",    
     function () {      
         alert("You are so fat, last time we played Hide-And-Seek was when I found you hiding behind Texas.");    
-        },    
-        !1  
-    ),  
+    },    
+    !1  
+),  
 document.getElementById("3").addEventListener(    
     "click",    
     function () {      
         alert("Can not wait for your hand to not be able to fit in that Pringles can . . . then where will you get your source of nutrition from?");
-        },    
-        !1  
-    ),  
+    },    
+    !1  
+),  
 document.getElementById("4").addEventListener(
     "click",    
     function () {      
         alert("MJ honestly looks like he was poured into his clothes, and his mother that was ordering forgot to say when.");    
-        },    
-        !1  
-    ),   
+    },    
+    !1  
+),   
 document.getElementById("5").addEventListener(    
     "click",    
     function () {        
         alert("His dish at lunch may say health, but his neck rolls scream McDonalds.");    
-        },    
-        !1  
-    ),  
+    },    
+    !1  
+),  
 document.getElementById("6").addEventListener(    
     "click",    
     function () {        
         alert("Honestly, I do not know if even he could tell me the last time that he could see his whole body in a mirror.");    
-        },    
-        !1  
-    ),  
+    },    
+    !1  
+),  
 document.getElementById("7").addEventListener(    
     "click",    
     function () {        
         alert("I think I know why MJ has a weird-ass voice and speech, the only letters in her alphabet are K, F, and C.");    
-        },    
-        !1  
-    ),  
+    },    
+    !1  
+),  
 document.getElementById("8").addEventListener(    
     "click",    
     function () {        
         alert("Bro probably needs cheat codes for the WII Fit.");
-        },    
-        !1  
-    ),  
+    },    
+    !1  
+),  
 document.getElementById("9").addEventListener(    
     "click",    
     function () {        
         alert("I would love to see him try to perform a handstand. His stomach would smack his face faster than my mom hits the Gas Pedal when pissed.");
-        },
-        !1  
-    ),   
+    },
+    !1  
+),   
 document.getElementById("10").addEventListener(    
     "click",    
     function () {        
         alert("His mother really means it when she calls MJ a big boy.");
-        },   
-        !1  
-    ),   
+    },   
+    !1  
+),   
 document.getElementById("11").addEventListener(    
     "click",    
     function () {        
         alert("He is so big that he probably has to use a mattress as a diaper when playing his DS.");    
-        },    
-        !1  
-    ),   
+    },    
+    !1  
+),   
 document.getElementById("12").addEventListener(    
     "click",    
     function () {        
         alert("Well, I would be surprised to see him ever walk in high heels without them turning into flipflops.");    
-        },    
-        !1  
-    ),   
+    },    
+    !1  
+),   
 document.getElementById("13").addEventListener(    
     "click",    
     function () {        
-        alert("Fuck you.");    
-        },    
-        !1  
-    ),   
+        alert("You aren't even half the man your mother was.");    
+    },    
+    !1  
+),   
 document.getElementById("14").addEventListener(    
     "click",    
     function () {        
         alert("When he buys a box of cheerios, that shit comes with a life guard.");    
-        },    
-        !1  
-    ),   
+    },    
+    !1  
+),   
 document.getElementById(15).addEventListener(    
     "click",    
     function () {        
         alert("I wonder if they sell larger caskets, I think they are going to need it to fit his size, along with his Loli pillow and Zelda games.");    
-        },    
-        !1 
-    ),  
+    },    
+    !1 
+),  
 document.getElementById(16).addEventListener(    
     "click",    
     function () {        
         alert("His ancestors must be rolling around in the graves to these insults, or rolling around in regret for raising such a fuck.");    
-        },    
-        !1  
-    ),   
+    },    
+    !1  
+),   
 document.getElementById(17).addEventListener(    
     "click",    
     function () {        
         alert("Mj really be trying to make his hair match his MHA persona.");    
-        },    
+    },    
     !1  
-    ),   
+),   
 document.getElementById(18).addEventListener(    
     "click",    
     function () {        
         alert("Women are right, size does matter, hence is why he has not got any bitches yet, fat fuck.");    
-        },    
+    },    
     !1  
-    ),   
+),   
 document.getElementById(19).addEventListener(    
     "click",    
     function () {       
         alert("MJ is so fat that when he sat on Walmart, he lowered the prices.");    
-        },    
+    },    
     !1  
-    );
+);
+document.getElementById(20).addEventListener(
+    "click",
+    function () {
+        alert("Fuck you, lol");
+    },
+    !1
+);
