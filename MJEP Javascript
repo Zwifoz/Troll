@@ -1,8 +1,8 @@
-javascript:  
+javascript:
 document = window.document;
-alert("I worked so hard on this page for you, MJ, and your fellow fan boys and girls!"),  
+alert("I worked so hard on this page for you, MJ, and your fellow fan boys and girls!"),
 document.write("
-<html>          
+<html>
     <body>
     <center><h1>╒════════════════════════╕</h1></center>
     <center><h1>〔❨✧Welcome to the MJEP✧❩〕</h1></center>
@@ -13,8 +13,9 @@ document.write("
     <h3><center>- MJ, <em>especially during PE</em>, would glance/stare at the 8th grade girls, like when they are playing basketball, perhaps even mentioning it.</center></h3>
     <h3><center>- MJ, back in 4-5th grade, thought he could be the majority of the class with his beyblades, lmao.</center></h3>
     <h3><center>- If you mess with MJ well enough, 90% guaranteed, he'd tell you to suck a dick 💀.</center></h3>
-    <h3><center>- MJ's ID(Lunch) Number: 12741061.</center></h3>
+    <h3><center>- MJ's ID(Lunch) Number : 12741061.</center></h3>
     <center><button id='goofy'>MJ's Goofy-ass Playlist</button></center>
+    <center><button id='Taiceii'>MJ's Youtube Channel</button></center>
     <br><br>
     <h2><center>《 Arcade 》</center><h2>
     <h4><center>Bypassi's Chrome Automatic Update Blocker (Can help PREVENT having to find new Unblock/Extension Kill Methods) : https://caub.glitch.me/</center></h4>
@@ -26,6 +27,7 @@ document.write("
     <center><button id='aboutB'>A.B.C Cloaker</button></center> 
     <center><button id='chess'>Chess.com</button></center>
     <center><button id='Retro'>RetroBowl</button></center>    
+    <center><button id='YT'>Youtube</button></center>    
     <center><button id='1v1'>1v1.lol</button></center>
     <br><br>
     <h2><center>《 Insults 》</center></h2>    
@@ -89,6 +91,14 @@ document.getElementById("securly").addEventListener(
     },
     !1
   ),
+document.getElementById("Taiceii").addEventListener(
+    "click",
+    function () {
+      let params = `scrollbars=no,resizable=no,status=no,location=no,toolbar=no,menubar=no,width=1280,height=720,left=0,top=0`;
+        open('https://www.youtube.com/@Taiceii', 'MJs Youtube', params);
+    },
+    !1
+  ),  
 document.getElementById("goofy").addEventListener(
     "click",
     function () {
@@ -143,6 +153,14 @@ document.getElementById("chess").addEventListener(
     },
     !1
 ),
+document.getElementById("YT").addEventListener(
+    "click",
+    function () {
+        let params = `scrollbars=no,resizable=no,status=no,location=no,toolbar=no,menubar=no,width=1280,height=720,left=0,top=0`;
+        open('https://youtube.com', 'Youtube', params);
+    },
+    !1
+),  
   document.getElementById("1v1").addEventListener(
     "click",
     function () {
